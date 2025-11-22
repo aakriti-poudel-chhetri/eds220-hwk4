@@ -48,13 +48,13 @@ The second dataset is of fire perimeters for the Eaton and Palisades fires, and 
 ## References
 
 ### Course Information
-**Course Title:** EDS 223 - Geospatial Analysis & Remote Sensing
-**Term:** Fall 2025
+ - **Course Title:** EDS 223 - Geospatial Analysis & Remote Sensing
+- **Term:** Fall 2025
 
 #### Teaching Team:
-**Instructor:** Dr. Carmen Galaz García
+- **Instructor:** Dr. Carmen Galaz García
 
-**Co-instructor**: Dr. Annie Adams
+- **Co-instructor**: Dr. Annie Adams
 
 Complete description for the homework can be found on the [Assignment-4](https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment4-palisades.html).
 
