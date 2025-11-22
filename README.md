@@ -24,16 +24,14 @@ eds220-hwk4
 
 Due to the large size of data, the data folder is included in .gitignore and is not tracked by version control.
 
+In this assignment, we will be using the following datasets.
 
-For Task 2
-In this assigment, we are using the following datasets.
-
-**Simplified collection of bands from the Landsat Collection 2 Level-2**
+- **Simplified collection of bands from the Landsat Collection 2 Level-2**
 The first dataset is a simplified collection of bands (red, green, blue, near-infrared and shortwave infrared) from the Landsat Collection 2 Level-2 atmosperically corrected surface reflectance data, collected by the Landsat 8 satellite.
 
 The data was retrieved from the [Microsof Planetary Computer data catalogue](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2) and clipped to an area surrounding the fire perimeters.
 
-**Fire perimeters for the Eaton and Palisades fires**
+- **Fire perimeters for the Eaton and Palisades fires**
 The second dataset is of fire perimeters for the Eaton and Palisades fires, and is retrieved from the [County of Los Angeles Open Data](https://data.lacounty.gov/). The data can be accessed from the [link](https://data.lacounty.gov/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about).
 
 ## Data Citation
@@ -55,6 +53,7 @@ The second dataset is of fire perimeters for the Eaton and Palisades fires, and 
 
 #### Teaching Team:
 **Instructor:** Dr. Carmen Galaz García
+
 **Co-instructor**: Dr. Annie Adams
 
 Complete description for the homework can be found on the [Assignment-4](https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment4-palisades.html).
