@@ -15,10 +15,10 @@ In this task, we will produce a false-color image of the Eaton and Palisades Fir
 ## Repository Structure
 ```
 eds220-hwk4
-│--  README.md
-│--  hwk4-task2-false-color-POUDEL.ipynb
-|--  .gitignore
-
+│
+├── README.md
+├── hwk4-task2-false-color-POUDEL.ipynb
+└── .gitignore
 ```
 
 ## Data
