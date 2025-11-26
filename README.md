@@ -1,4 +1,4 @@
-# EDS 220 - Assignment 4
+# Visualizing fire scars through false color¶
 
 This repository contains materials for the fourth assignment for the course [EDS 220 - Working with Environmental Datasets](https://meds-eds-220.github.io/MEDS-eds-220-course/). This course is part of the [UCSB Masters in Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).
 
@@ -23,7 +23,7 @@ eds220-hwk4/
 
 ## Data
 
-Due to the large size of data, the data folder is included in .gitignore and is not tracked by version control.
+A `data/` directory was created inside the `eds220-hwk4` directory. Due to the large size of data, the data folder is included in ``.gitignore` and is not tracked by version control.
 
 In this assignment, we will be using the following datasets.
 
@@ -49,8 +49,8 @@ The second dataset is of fire perimeters for the Eaton and Palisades fires, and 
 ## References
 
 ### Course Information
- - **Course Title:** EDS 223 - Geospatial Analysis & Remote Sensing
-- **Term:** Fall 2025
+ - **Course Title:** EDS 220 - Working with Environmental Datasets
+ - **Term:** Fall 2025
 
 #### Teaching Team:
 - **Instructor:** Dr. Carmen Galaz García
