@@ -1,5 +1,7 @@
 # Visualizing fire scars through false color¶
 
+### A case of Eaton and Palisades Fires
+
 This repository contains materials for the fourth assignment for the course [EDS 220 - Working with Environmental Datasets](https://meds-eds-220.github.io/MEDS-eds-220-course/). This course is part of the [UCSB Masters in Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).
 
 ## Background
@@ -8,9 +10,11 @@ In early January 2025, the Eaton Fire and Palisades Fire ignited almost simultan
 
 False color imagery generated using satellite data from instruments such as Landsat—is a valuable tool for assessing wildfire impacts. By assigning infrared spectral bands to visible colors, these images reveal vegetation health, burn severity and the spatial extent of fire scars. This technique enables researchers and land managers to evaluate ecosystem recovery, identify high-risk zones, and inform restoration and mitigation strategies.
 
-In this task, we will produce a false-color image of the Eaton and Palisades Fires using remote sensing data, highlighting the burn scar and demonstrating how coding and data visualization support environmental monitoring.
-
 ![](https://freeseandgoss.com/wp-content/uploads/2025/01/palisades-and-eaton-fires--scaled.jpeg)
+
+## Objective
+
+The objective of this assignment is to produce a false-color image of the Eaton and Palisades fires using remote sensing data, highlighting the burn scar and demonstrating how coding and data visualization support environmental monitoring.
 
 ## Repository Structure
 ```
@@ -23,7 +27,7 @@ eds220-hwk4/
 
 ## Data
 
-A `data/` directory was created inside the `eds220-hwk4` directory. Due to the large size of data, the data folder is included in ``.gitignore` and is not tracked by version control.
+A `data/` directory is created inside the `eds220-hwk4` repository. Due to the large size of data, the data folder is included in `.gitignore` and is not tracked by version control.
 
 In this assignment, we will be using the following datasets.
 
@@ -57,6 +61,6 @@ The second dataset is of fire perimeters for the Eaton and Palisades fires, and 
 
 - **Co-instructor**: Dr. Annie Adams
 
-Complete description for the homework can be found on the [Assignment-4](https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment4-palisades.html).
+Complete description for this assignment can be found on the [Assignment-4](https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment4-palisades.html).
 
 **Author:** Aakriti Poudel
