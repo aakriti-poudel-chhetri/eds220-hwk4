@@ -1,6 +1,5 @@
-# Visualizing fire scars through false color¶
-
-### A case of Eaton and Palisades Fires
+# Visualizing fire scars through false color
+## A case of Eation and Palisades fires¶
 
 This repository contains materials for the fourth assignment for the course [EDS 220 - Working with Environmental Datasets](https://meds-eds-220.github.io/MEDS-eds-220-course/). This course is part of the [UCSB Masters in Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).
 
