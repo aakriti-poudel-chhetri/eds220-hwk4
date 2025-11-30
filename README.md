@@ -1,5 +1,5 @@
 # Visualizing fire scars through false color
-## A case of Eation and Palisades fires¶
+## A case of Eaton and Palisades fires
 
 This repository contains materials for the fourth assignment for the course [EDS 220 - Working with Environmental Datasets](https://meds-eds-220.github.io/MEDS-eds-220-course/). This course is part of the [UCSB Masters in Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).
 
@@ -13,7 +13,10 @@ False color imagery generated using satellite data from instruments such as Land
 
 ## Objective
 
-The objective of this assignment is to produce a false-color image of the Eaton and Palisades fires using remote sensing data, highlighting the burn scar and demonstrating how coding and data visualization support environmental monitoring.
+The objective of this assignment is to
+- produce a false-color image of the Eaton and Palisades fires using remote sensing data
+- highlight the burn scar
+- demonstrate how coding and data visualization support environmental monitoring
 
 ## Repository Structure
 ```
