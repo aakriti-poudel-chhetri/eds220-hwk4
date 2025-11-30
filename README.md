@@ -63,6 +63,6 @@ The second dataset is of fire perimeters for the Eaton and Palisades fires, and 
 
 - **Co-instructor**: Dr. Annie Adams
 
-Complete description for this assignment can be found on the [Assignment-4](https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment4-palisades.html).
+Complete description for this assignment can be found on the [Assignment-4](https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment4-palisades-eaton-fires.html).
 
 **Author:** Aakriti Poudel
