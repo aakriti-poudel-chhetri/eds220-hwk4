@@ -25,6 +25,11 @@ eds220-hwk4/
 ├── README.md
 ├── hwk4-task2-false-color-POUDEL.ipynb
 └── .gitignore
+     └───data
+         ├── Eaton_Perimeter_20250121
+         ├── Palisades_Perimeter_20250121
+         └── landsat8-2025-02-23-palisades-eaton.nc
+
 ```
 
 ## Data
